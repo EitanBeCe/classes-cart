@@ -1,1 +1,1 @@
-- Simple shop for OOP training.
+- Simple shop for OOP and Classes training.
